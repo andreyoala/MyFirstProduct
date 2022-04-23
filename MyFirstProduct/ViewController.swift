@@ -14,10 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     func newMethod() {
-        print("Mother Fucker")
+        print("MotherFucker")
     }
-    func anotherMethod() {
-
+    func setupView() {
+        view.backgroundColor = .systemYellow
     }
 
 
