@@ -17,9 +17,11 @@ class ViewController: UIViewController {
         print("MotherFucker")
     }
     func setupView() {
-        view.backgroundColor = .systemYellow
+        view.backgroundColor = .green
     }
 
-
+    func sayHello() {
+        print("Hello")
+    }
 }
 
